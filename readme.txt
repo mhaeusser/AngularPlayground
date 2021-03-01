@@ -1,11 +1,4 @@
 
-Prerequisites:
-npm / node
-
-
-npm install -g typescript
-
-
 >tsc --version
 Version 4.1.3
 
